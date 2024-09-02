@@ -31,6 +31,7 @@ html, body {
     -o-border-radius: 3vh;
     color: black;
     border: 5px solid rgb(216, 45, 45);
+    padding: 1vh;
 }
 video {
 
