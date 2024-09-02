@@ -1,5 +1,5 @@
 const judulUcapan = document.querySelector(".birthdayName");
-const judulText = ["Ai Rostika", "6 July 2024", "Extrovert", "Addews"];
+const judulText = ["Ai Rostika", "6 July 2004", "Extrovert", "Addews"];
 let judulTextIndex = 0;
 let judulTextIndexChar = 0;
 
